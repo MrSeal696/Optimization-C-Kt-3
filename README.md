@@ -150,3 +150,7 @@ class Program
 - Освоил инструменты анализа памяти в Visual Studio.
 - Оптимизировал использование памяти и работу сборщика мусора для повышения производительности.
 
+![изображение](https://github.com/user-attachments/assets/1483042c-1fed-4004-a44a-4b1acdd5e5ca)
+
+![изображение](https://github.com/user-attachments/assets/8fafae4e-2ae1-4433-aee4-538887e95c11)
+
